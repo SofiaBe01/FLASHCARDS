@@ -6,6 +6,8 @@ body {
 }
 .cartao {
     margin: 1rem 1rem;
+    background-color: aqua;
+    height: 20rem;
 }
 footer {
     background-color: black;
@@ -18,5 +20,5 @@ footer {
  footer p{
     text-align: center;
     font-size: 1.0rem;
-    margin-top: 0.5arem;
+    margin-top: 0.5rem;
 }
